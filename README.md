@@ -1,7 +1,7 @@
 # RorschachCrackMe
 My CrackMe
 
-First CrackMe:
+First CrackMe
 Name:com.rorschach.executetable.apk
 
 Write Up:
